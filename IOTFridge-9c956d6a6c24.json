@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "iotfridge",
+  "private_key_id": "9c956d6a6c24202ca6f3d7f05f112d9433a0d9f4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDkt80RTBMc2oBq\n9UXxHhKzGN7yzSBmdmMJr1Vb+hYzXhAhGR6vFzEA+b0MnsA5QQftFnn2aN/CCnf6\nWr3/zyagFPEHrFsLYjlIfaNtbzBI5SRxzq+rcjOtoCBSnkSEzrVBSu+QWFFSHJlZ\njXGzObeoCM/kJf5VJ4vrMT2/1ZZ09jYI+2h/i+bfbOdHtX5dR+HEMRE+pRM/E0NI\nS7IFM+7z3S2+GKnW9OyJRIMgcAvUdPkXUpR2NqxpEGb5smriIsuPJh8KCCcwQWSW\n2BVVudtSzqPBHS3dKuCtkiEGmiD7Rwm17oWTKLdYshnqRRil1ffJz9e3YUUwwxG5\nZds6aCYxAgMBAAECggEARH/33vJV1xJp257R78D+AL22KCnfRlC2oLPucLmZ5JCL\nbB5F3lKnzo79W8Y/8+XSJePRa0dFnKvd+xEqTm8QNmmPNqkcK3Cjj15xj9j5MRvP\nqnYojsSJTbrjc1sLUmtGRePXk/efg2QlWXjPUMo8gwsAmGf4oDBT64C36bhic2yp\nFPQh5DKSPr1XDS69ZlU1sFF52+12RsgVe7vqCHqkh6FLNVm+O/F3fm/KjgYuh/gP\ngBt4e7knVS6PPayK6Vq8+X0vB/VwcZDekyeM7wXeVDZgR+w1sOnydlAvnS6Eo5r3\nFMSpvGWHM5Nfx9wQxxzk0WeSfncu8BEj9+JyoCTD8QKBgQD1kdbyO9IUY48Gxuqq\nDZMY9z1APBXbIxujRYRhbtRqL3d2zGcAH4IqFwaUVHT7fjKNFjH+FVcPGQEJ/t75\nGyb4dA3RKa9tOXOO8Rl+u7Xc3JmSq5BDKhTyhHpN0uleyR5Wl39CukUz/Ii5UVmQ\nU67OnB6IxHK6FpQ/OyuM+qnfKwKBgQDubronYO9r5loSPaAsJvqxQHfvguhMI7W6\n/D0yYCjHW+2vjbkg9MCa5wIvTtB8TTM/Ss4miSCu6nWp7ZPXVAfl1QCB+spz3C4W\nSUVX2/l9eC452fcqsqxLH+3AJFMWyeAl2FIraK4LMn7/T0HrFxMGJGa0wkmCm7iN\nMoyZBwrCEwKBgF0ly62oiUBYn1kHvN1yNrjCl4Y1BGlSANrGtLcsjgAVLzBtyige\ny4XhpApBmvoGXXBs2duyBorghidfeP5ukTKu+sq7ECLTJwUyaORMmWhEeTBMSXVg\nkf+HxsicVw8wJITeBFSwSS21/bqlo95+D5GpYF+qfIYfqG3vqM5aCnNvAoGBAMWU\ndCZVqZFcXZ9n+ecclfl0Vu7fJ+iQXvQIOh4YmTI694fWhWbN6x1x+NmDEjkvMBxu\nvM4qLC9GkyKxgSWauMC39afATywbdQV6yj+4RdK3WHcQLEXxsdy/JKFoeIIV3+z8\niXr3T+JvgdXHs/RANr+MQp/fsFLO/+vhy6izsTKJAoGARwbApKt+p5seGzNE7aWm\nT8Q1Z8B+kC7OhPea1anYLww9hoS4kZjUkZbLqR0wemScJ7WW5IQGJwNWi3Y91q6d\ncAWB2AdgDsVa7QXN3PR41IhNaSHaTsnl0M7qwkkZFcs63fEwqa2kKlVgkfLcJOsf\n+dTpXBXZqQuOX76ttSwB2lo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "iotfridge@iotfridge.iam.gserviceaccount.com",
+  "client_id": "106547251928313669979",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/iotfridge%40iotfridge.iam.gserviceaccount.com"
+}
